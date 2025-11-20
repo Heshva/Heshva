@@ -8,7 +8,7 @@ About Me
 🎶 Music lover & avid reader of literature
 🌐 Enthusiast for real-world data projects and full-stack basics
 
-##Check Out my POrtfolio 
+## Check Out my Portfolio 
 
 https://heshvasoni.vercel.app/
 
